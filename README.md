@@ -1,4 +1,4 @@
-# This is my personal repo I created for the NLP applications class. My html skills can be reviewed in another repo, oonaelektracello which I built last year for a marketing event. 
+### This is my personal repo I created for the NLP applications class. My html skills can be reviewed in another repo, oonaelektracello which I built last year for a marketing event. 
 
 <!--
 **oonaelektra/oonaelektra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
