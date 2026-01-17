@@ -1,4 +1,9 @@
-### This is my personal repo I created for the NLP applications class. My html skills can be reviewed in another repo, oonaelektracello.
+### Hi! My name is Oona and this is my personal repository! 
+
+### My html skills can be reviewed in the oonaelektracello repository. which I built to make a personal cellist website.
+
+### Other repositories include some classwork from my studies. At the moment I am working on muy bachelor's thesis and the repository including e.g. my MT training scripts will be made public later.
+
 
 <!--
 **oonaelektra/oonaelektra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
