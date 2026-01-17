@@ -2,7 +2,7 @@
 
 ### My html skills can be reviewed in the oonaelektracello repository, which I built to make a personal cellist website.
 
-### Other repositories include some classwork from my studies. At the moment I am working on muy bachelor's thesis and the repository including e.g. my MT training scripts will be made public later.
+### Other repositories include some classwork from my studies. At the moment I am working on my bachelor's thesis and the repository including e.g. MT training scripts will be made public later.
 
 
 <!--
