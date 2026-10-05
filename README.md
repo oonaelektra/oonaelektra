@@ -1,6 +1,6 @@
 ### Hi, I'm Oona, a master's student in Language Technology and this is my personal repository.  
 
-### The scripts I used for my bachelor's thesis research and a preprint [paper](https://arxiv.org/abs/2605.04196) are in the [BA-thesis repository](https://github.com/oonaelektra/BA-thesis)
+### The scripts I used for my bachelor's thesis research and a preprint [paper](https://arxiv.org/abs/2605.04196) are in the [BA-thesis repository](https://github.com/oonaelektra/BA-thesis). 
 
 ### The repository [ONLY](https://github.com/dlylinyao/ONLY) contains scripts of a [pipeline](https://arxiv.org/abs/2605.10853) that generates satire with RAG based on web scraped news. 
 
