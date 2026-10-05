@@ -1,8 +1,10 @@
-### Hi! My name is Oona and this is my personal repository! 
+### Hi, I'm Oona, a master's student in Language Technology and this is my personal repository.  
 
-### My html skills can be reviewed in the oonaelektracello repository, which I built to make a personal cellist website.
+### The scripts I used for my bachelor's thesis research and a preprint [paper](https://arxiv.org/abs/2605.04196) are in the [BA-thesis repository](https://github.com/oonaelektra/BA-thesis)
 
-### Other repositories include some classwork from my studies. At the moment I am working on my bachelor's thesis and the repository including e.g. MT training scripts will be made public later.
+### The repository [ONLY](https://github.com/dlylinyao/ONLY) contains scripts of a [pipeline](https://arxiv.org/abs/2605.10853) that generates satire with RAG based on web scraped news. 
+
+### Lastly, [oonaelektracello](https://github.com/oonaelektra/oonaelektracello) is a repository which I built to make a personal cellist website (in Finnish).
 
 
 <!--
